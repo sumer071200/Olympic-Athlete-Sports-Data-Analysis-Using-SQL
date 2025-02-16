@@ -4,6 +4,9 @@
 
 This project provides in-depth data analysis of the Olympic Games using SQL. The dataset includes historical Olympic records, athlete details, medal distribution, and participation statistics. The SQL queries cover basic, intermediate, and advanced-level insights.
 
+## Dataset
+The dataset used for this project can be accessed from the following link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 ## 🗄️ Database Structure
 
 The database consists of the following tables:
